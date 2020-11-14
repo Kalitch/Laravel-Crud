@@ -1,6 +1,6 @@
 # Laravel-Crud 
 
-- Edit __.env File__
-- Run __composer install__
-- Run __php artisan key:generate__
-- Run __php artisan migrate__
+ Edit .env File
+composer install
+php artisan key:generate
+php artisan migrate
